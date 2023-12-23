@@ -1,0 +1,8 @@
+<script type='text/javascript' src='https://study24.ai/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://study24.ai/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://study24.ai/wp-content/plugins/lk-a24//assets/jquery.validate.js?ver=6.2.2' id='validate-script-js'></script>
+<script type='text/javascript' id='ajax-auth-script-js-extra'>
+/* <![CDATA[ */
+var ajax_auth_object = {"ajaxurl":"https:\/\/study24.ai\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/study24.ai","loadingmessage":""};
+/* ]]> */
+</script>
